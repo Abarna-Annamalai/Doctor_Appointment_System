@@ -1,0 +1,19 @@
+
+<html>
+<head>
+<body background="url1.jpg">
+<form action="LoginCheck.php" id="LoginForm" method="post"><br/><br/>
+<font color="Hotpink">
+<h1 align="center" class="style1">HOSPITAL MANAGEMENT</h1><br />
+<br /><p>
+<table border="0" align="center" cellspacing="20">
+<tr><td><label><b>User Name<b></label></td><td><input name="uid" type="text" size="30" maxlength="30" autofocus /></td></tr>
+<tr><td><label><b>Password<b></label></td><td><input name="pid" type="password" size="30" maxlength="30" /></td></tr>
+</table>
+<div align='center'><input name="SignIn" type="submit"  value="Sign In" class="btn"/></div></p>
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+</form>
+</font>
+</head>
+</body>
+</html>

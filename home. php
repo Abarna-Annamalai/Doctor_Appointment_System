@@ -1,0 +1,13 @@
+<html>
+<body style="font:bold" bgcolor='mistyrose'>
+<form action="signin.php" method="post"><br><br>
+<tr bgcolor="#072377">
+<h3 align="center">ADMIN<br>
+<form action="signup.php" method="post"><br><br>
+<input type="submit" value="signup"><br><br><br></form>
+PATIENT<br>
+<form action="psignup.php" method="post"><br><br>
+<input type="submit" value="signup"><br><br><br></form>
+<form action="psignin.php" method="post"><br><br>
+<input type="submit" value="signin"><br><br></form>
+</html>
